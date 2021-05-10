@@ -1,0 +1,3 @@
+ErrorDocument 404 http://localhost/library-ms/404.php
+Redirect /library-ms/admin/allbooks.php /library-ms/book/statistics.php
+Redirect /library-ms/admin/allusers.php /library-ms/member/statistics.php
